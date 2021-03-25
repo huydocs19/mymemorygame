@@ -6,7 +6,7 @@ Submitted by: **Huy Do**
 
 Time spent: **2** hours spent in total
 
-Link to project: [](https://glitch.com/edit/#!/fern-insidious-canid)
+Link to project: [Memory Game](https://glitch.com/edit/#!/fern-insidious-canid)
 
 ## Required Functionality
 
