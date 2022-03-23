@@ -36,32 +36,39 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app!
 
-## Video Walkthrough
+## Video Walkthrough (GIF)
 
 Here's a walkthrough of implemented user stories:
 <img src='/walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-I don't use any outside resources to help me complete my submission.
+
+    I don't use any outside resources to help me complete my submission.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-One challenge was to understand what the code was doing. The way I overcame this was to read the description of the code several times or asks my friends.
+
+    One challenge was to understand what the code was doing. The way I overcame this was to read the description of the code several times or asks my friends.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-Are we only using these three programming languages, HTML, CSS, and JavaScript, to create a webpage? Do we use more programming languages or tools to make the webpage look nicer?
+
+    Are we only using these three programming languages, HTML, CSS, and JavaScript, to create a webpage? Do we use more programming languages or tools to make the webpage look nicer?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-I would change the appearance of the webpage to make it look nicer, such as adding an image for each button and including a nice background. I also include some optional features that mention above, such as having buttons use a pitch (frequency) other than the ones in the tutorial, having playback speeds up on each turn, and having the computer pick a different pattern each time the game is played.
+    I would change the appearance of the webpage to make it look nicer, such as adding an image for each button and including a nice background. I also include some optional features that mention above, such as having buttons use a pitch (frequency) other than the ones in the tutorial, having playback speeds up on each turn, and having the computer pick a different pattern each time the game is played.
 
+
+
+## Interview Recording URL Link
+
+[My 5-minute Interview Recording](https://berkeley.zoom.us/rec/share/9s5GVgUe7Hat1k3OegSOIzvDd74odcRQSLebpC9xlTW9kjnOMdvvvbLDKNZHJ6Wx.UkIwW6z_1v-vGEEN?startTime=1648075855000)
 
 
 ## License
 
-    Copyright Huy Do
+    Copyright [YOUR NAME]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
